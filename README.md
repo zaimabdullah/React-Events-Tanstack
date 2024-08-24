@@ -1,8 +1,6 @@
 # React Events WebApp
 Welcome to React Events WebApp! This is Events web application project that utilized the [Tanstack React Query](https://tanstack.com/query/latest).
 
-### Weblink: [Live Website](#)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Web Pages](#web-pages)
